@@ -1,0 +1,16 @@
+.lowerFooter{
+    background-color: #1a252f;
+    padding: 25px;
+    text-align: center;
+}
+.innerFooter{
+ text-align: center;
+ padding: 30px;
+}
+
+.iconContainer{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 1px solid white;
+}

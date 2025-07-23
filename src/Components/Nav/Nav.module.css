@@ -1,0 +1,9 @@
+.active{
+    background-color: var(--main-color);
+    border-radius: 10px;
+    padding: 10px 5px;
+    color: white;
+}
+:global(.nav-link) {
+  color: white !important;
+}

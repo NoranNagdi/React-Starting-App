@@ -1,0 +1,19 @@
+:root{
+    --main-color:#1abc9c;
+    --second-color: #2c3e50;
+    box-sizing: border-box;
+}
+
+.bg-main{
+    background-color: var(--main-color);
+}
+.bg-second{
+    background-color: var(--second-color);
+}
+.text-second{
+    color: var(--second-color);
+}
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

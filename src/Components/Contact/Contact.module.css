@@ -1,0 +1,24 @@
+input {
+  border: 0 !important;
+  outline: 0 !important;
+  border-bottom: 1px solid #dee2e6 !important;
+}
+input:focus {
+  box-shadow: none !important;
+}
+
+:global(.btn) {
+  background-color: var(--main-color) !important;
+  color: white !important;
+  display: block;
+}
+.floatingLabel {
+  left: -45.5%;
+  color: var(--main-color) !important;
+  transition: 0.5s top;
+  position: relative;
+}
+.top30{
+    top: 30px;
+    opacity: 0;
+}
